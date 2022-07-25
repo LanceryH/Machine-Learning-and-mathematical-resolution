@@ -1,4 +1,4 @@
-# 💥 3rd Year Maths project 💥
+# 💥 Projets mathématiques de 3ème année 💥
 * ACP 2D, 3D
 * K-moyennes
 * SVM 
@@ -9,4 +9,4 @@
 * Optimisation différenciable
 * Newton-cotes ordre 5
 * Range Kutta 4
-## 💫 Feel Free to check project pdf final render (rapport.pdf)💫
+
