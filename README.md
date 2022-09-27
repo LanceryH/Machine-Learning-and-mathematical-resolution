@@ -1,4 +1,5 @@
-# 💥 Projets mathématiques de 3ème année 💥
+# This Rep contains
+
 * ACP 2D, 3D
 * K-moyennes
 * SVM 
