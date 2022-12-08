@@ -35,7 +35,7 @@
 
 # Equation de la chaleur (différences finies)
 
-<img src="https://user-images.githubusercontent.com/108919405/206135797-0df560ab-5309-4910-8383-c3b92876885d.png" width="400" height="150"/> <img src="https://user-images.githubusercontent.com/108919405/206352731-875da81e-7754-4e95-a8de-95ceb8662003.png" width="400" height="150"/>
+<img src="https://user-images.githubusercontent.com/108919405/206135797-0df560ab-5309-4910-8383-c3b92876885d.png" width="500" height="150"/> <img src="https://user-images.githubusercontent.com/108919405/206352731-875da81e-7754-4e95-a8de-95ceb8662003.png" width="500" height="150"/>
 
 
 # Partitionnement d'images (ACP,kmoy,kernels)
