@@ -35,16 +35,16 @@
 
 # Equation de la chaleur (différences finies)
 
-<img src="https://user-images.githubusercontent.com/108919405/206135797-0df560ab-5309-4910-8383-c3b92876885d.png" width="600" height="150"/> <img src="https://user-images.githubusercontent.com/108919405/206352731-875da81e-7754-4e95-a8de-95ceb8662003.png" width="600" height="150"/>
+<img src="https://user-images.githubusercontent.com/108919405/206135797-0df560ab-5309-4910-8383-c3b92876885d.png" width="400" height="150"/> <img src="https://user-images.githubusercontent.com/108919405/206352731-875da81e-7754-4e95-a8de-95ceb8662003.png" width="400" height="150"/>
 
 
 # Partitionnement d'images (ACP,kmoy,kernels)
 
-<img src="https://user-images.githubusercontent.com/108919405/206353277-524f388e-eb7b-46f4-8026-d6ad44b48aac.jpg" width="300" height="250"/> <img src="https://user-images.githubusercontent.com/108919405/206353361-3e263bbf-4baf-443a-87c7-d30553881def.jpg" width="300" height="250"/> <img src="https://user-images.githubusercontent.com/108919405/206353354-a9f48669-7120-4eb7-80e0-7577fdf7568a.jpg" width="300" height="250"/> 
+<img src="https://user-images.githubusercontent.com/108919405/206353277-524f388e-eb7b-46f4-8026-d6ad44b48aac.jpg" width="200" height="150"/> <img src="https://user-images.githubusercontent.com/108919405/206353361-3e263bbf-4baf-443a-87c7-d30553881def.jpg" width="200" height="150"/> <img src="https://user-images.githubusercontent.com/108919405/206353354-a9f48669-7120-4eb7-80e0-7577fdf7568a.jpg" width="200" height="150"/> 
 
 
 # Reconnaissance des chiffres manuscrits
 
-<img src="https://user-images.githubusercontent.com/108919405/206353988-817a28ad-d7d5-47e1-a049-6d9e29d39ca0.png" width="300" height="250"/> <img src="https://user-images.githubusercontent.com/108919405/206354768-d8c05d27-f5e6-420d-b405-0f49e6b65d3a.png" width="300" height="250"/> 
+<img src="https://user-images.githubusercontent.com/108919405/206353988-817a28ad-d7d5-47e1-a049-6d9e29d39ca0.png" width="200" height="150"/> <img src="https://user-images.githubusercontent.com/108919405/206354768-d8c05d27-f5e6-420d-b405-0f49e6b65d3a.png" width="200" height="150"/> 
 
 
