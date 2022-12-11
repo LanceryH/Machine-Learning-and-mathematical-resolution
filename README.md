@@ -18,7 +18,7 @@
 <img src="https://user-images.githubusercontent.com/108919405/206129447-a5faf40c-01a1-4436-9fa9-83a0f5cc85a8.png" width="150" height="150"/> <img src="https://user-images.githubusercontent.com/108919405/206129882-43fd51ba-96d3-4360-bde4-6206ec3514da.png" width="150" height="150"/> <img src="https://user-images.githubusercontent.com/108919405/206130239-50cafee1-a45f-415a-a639-8e9ede17b7bd.png" width="250" height="150"/> 
  
  
-# Analyses de populations 2 (SVM, ADMM, kmoy, MoindreCarrée)
+# Analyses de populations 2 (SVM, ADMM, kmoy, Moindre Carrée)
 
 <img src="https://user-images.githubusercontent.com/108919405/206130919-0ebfdc4b-95db-4756-a295-8131e360448d.png" width="150" height="150"/> <img src="https://user-images.githubusercontent.com/108919405/206131877-f99844c2-6c05-4433-b9b9-8a9b94088bde.png" width="300" height="150"/>
 
@@ -28,7 +28,7 @@
 <img src="https://user-images.githubusercontent.com/108919405/206132212-24798fb7-9ff4-4e19-b159-29e1ae4f16c7.gif" width="200" height="150"/> <img src="https://user-images.githubusercontent.com/108919405/206128060-daba7d1f-f9d1-4541-bab0-f2c841342701.gif" width="200" height="150"/> <img src="https://user-images.githubusercontent.com/108919405/206128071-6794c5bf-862e-45ba-b17e-29adc3773e17.gif" width="200" height="150"/>
 
 
-# Champs gravitationnel autour d’une masse sphérique
+# Champs gravitationnel autour d’une masse sphérique (Newcotes ordre 5)
 
 <img src="https://user-images.githubusercontent.com/108919405/206133449-e37fcbd9-7cfb-42b7-8632-94f709b98ee8.png" width="200" height="150"/> <img src="https://user-images.githubusercontent.com/108919405/206134287-e28b40ac-08d1-4aca-a067-29ff91dfbb6d.png" width="200" height="150"/> <img src="https://user-images.githubusercontent.com/108919405/206135287-860b5bda-9775-4d38-955f-9d382bdb77d4.png" width="200" height="150"/>
 
