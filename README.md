@@ -18,7 +18,7 @@
 <img src="https://user-images.githubusercontent.com/108919405/206129447-a5faf40c-01a1-4436-9fa9-83a0f5cc85a8.png" width="150" height="150"/> <img src="https://user-images.githubusercontent.com/108919405/206129882-43fd51ba-96d3-4360-bde4-6206ec3514da.png" width="150" height="150"/> <img src="https://user-images.githubusercontent.com/108919405/206130239-50cafee1-a45f-415a-a639-8e9ede17b7bd.png" width="250" height="150"/> 
  
  
-# Analyses de populations 2 (SVM, ADMM, kmoy, MC)
+# Analyses de populations 2 (SVM, ADMM, kmoy, MoindreCarrée)
 
 <img src="https://user-images.githubusercontent.com/108919405/206130919-0ebfdc4b-95db-4756-a295-8131e360448d.png" width="150" height="150"/> <img src="https://user-images.githubusercontent.com/108919405/206131877-f99844c2-6c05-4433-b9b9-8a9b94088bde.png" width="300" height="150"/>
 
