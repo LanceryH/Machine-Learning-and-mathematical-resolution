@@ -5,7 +5,7 @@
 * SVM 
 * ADMM
 * Method of least squares multi-classes with regularisation
-* Method of least squares avec kernels
+* Method of least squares with kernels
 * Finite differences
 * Differentiable optimization
 * Newton-cotes order 5
