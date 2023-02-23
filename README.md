@@ -11,7 +11,8 @@
 * Newton-cotes order 5
 * Range Kutta 4 
 
-
+# This Rep contains
+To understand better how the physics, maths and codes work, each files contains a "rapport.pdf" with all the mathematics behind explained.
 
 # Population analyzes 1 (ACP_2D_3D ,kmoy)
 
