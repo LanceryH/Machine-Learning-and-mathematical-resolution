@@ -7,7 +7,7 @@
 * Method of least squares multi-classes with regularisation
 * Method of least squares avec kernels
 * Finite differences
-* Optimisation différenciable
+* Differentiable optimization
 * Newton-cotes order 5
 * Range Kutta 4 
 
