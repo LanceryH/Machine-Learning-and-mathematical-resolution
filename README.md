@@ -11,7 +11,7 @@
 * Newton-cotes order 5
 * Range Kutta 4 
 
-# Dont forget to check the "rapport.pdf" in each file
+# Dont forget to go take a look at the "rapport.pdf" in each file
 To understand better how the physics, maths and codes work, each files contains a "rapport.pdf" with all the mathematics behind explained.
 
 
