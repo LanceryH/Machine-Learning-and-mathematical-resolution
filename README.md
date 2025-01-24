@@ -11,10 +11,6 @@
 * Newton-cotes order 5
 * Range Kutta 4 
 
-# Dont forget to go take a look at the "rapport.pdf" in each file
-To understand better how the physics, maths and codes work, each files contains a "rapport.pdf" with all the mathematics behind explained.
-
-
 # Population analyzes 1 (ACP_2D_3D ,kmoy)
 
 <img src="https://user-images.githubusercontent.com/108919405/206129447-a5faf40c-01a1-4436-9fa9-83a0f5cc85a8.png" width="150" height="150"/> <img src="https://user-images.githubusercontent.com/108919405/206129882-43fd51ba-96d3-4360-bde4-6206ec3514da.png" width="150" height="150"/> <img src="https://user-images.githubusercontent.com/108919405/206130239-50cafee1-a45f-415a-a639-8e9ede17b7bd.png" width="250" height="150"/> 
